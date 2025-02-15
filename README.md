@@ -8,7 +8,7 @@ Welcome to MaoMaoYu's AI Tools Platform! This repository showcases our latest AI
 
 ### 🐱 MaoMaoYu Top4 AI Tools
 
-🔗 <a href="https://top4ai.com" rel="dofollow">https://top4ai.com</a>
+🔗 <a href="https://top4ai.com" rel="dofollow">top4ai.com</a>
 
 Discover the latest and greatest AI tools to save time and boost efficiency. Our platform also offers personal prompt management for optimal AI interaction.
 
@@ -16,7 +16,7 @@ Discover the latest and greatest AI tools to save time and boost efficiency. Our
 
 ### 🎎 Chinese Name Generator
 
-🔗 <a href="https://rednode-name.mastermao.com" rel="dofollow">https://rednode-name.mastermao.com</a>
+🔗 <a href="https://rednode-name.mastermao.com" rel="dofollow">rednode-name.mastermao.com</a>
 
 Looking for a Chinese name that perfectly captures the essence of your English name? Our tool analyzes your English name and generates a 'Rednote Name Certificate', providing you with a unique and culturally resonant Chinese name.
 
@@ -24,7 +24,7 @@ Looking for a Chinese name that perfectly captures the essence of your English n
 
 ### 🔮 Zhou Tian Tong Jie - Your Destiny Analysis Assistant
 
-🔗 <a href="https://fate.mastermao.com" rel="dofollow">https://fate.mastermao.com</a>
+🔗 <a href="https://fate.mastermao.com" rel="dofollow">fate.mastermao.com</a>
 
 A fusion of ancient knowledge and innovative technology, Zhou Tian Tong Jie lets users explore and experience different lifestyles and decision paths through advanced destiny analysis.
 
