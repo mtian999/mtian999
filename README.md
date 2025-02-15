@@ -1,16 +1,43 @@
-## Hi there 👋
+# MaoMaoYu AI Tools Platform 🚀
 
-<!--
-**mtian999/mtian999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to MaoMaoYu's AI Tools Platform! This repository showcases our latest AI-powered projects designed to enhance productivity and personal expression.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Featured Projects
+
+### 🐱 MaoMaoYu Top4 AI Tools
+
+🔗 [https://top4ai.com/](https://top4ai.com/)
+
+Discover the latest and greatest AI tools to save time and boost efficiency. Our platform also offers personal prompt management for optimal AI interaction.
+
+---
+
+### 🎎 Chinese Name Generator
+
+🔗 [https://rednode-name.mastermao.com/](https://rednode-name.mastermao.com/)
+
+Looking for a Chinese name that perfectly captures the essence of your English name? Our tool analyzes your English name and generates a 'Rednote Name Certificate', providing you with a unique and culturally resonant Chinese name.
+
+---
+
+### 🔮 Zhou Tian Tong Jie - Your Destiny Analysis Assistant
+
+🔗 [https://fate.mastermao.com](https://fate.mastermao.com)
+
+A fusion of ancient knowledge and innovative technology, Zhou Tian Tong Jie lets users explore and experience different lifestyles and decision paths through advanced destiny analysis.
+
+---
+
+## 📌 Project Status
+
+| Project                | Status                |
+| ---------------------- | --------------------- |
+| MaoMaoYu Top4 AI Tools | 🚀 Active Development |
+| Chinese Name Generator | ✅ Stable Release     |
+| Zhou Tian Tong Jie     | 🚀 Active Development |
+
+## 📬 Contact
+
+For any inquiries or collaborations, please reach out to us at [support@mastermao.com](mailto:support@mastermao.com)
